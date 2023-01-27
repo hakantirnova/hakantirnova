@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Front End Projects. 
 - 🌱 I have experience in HTML, CSS, SASS, Bootstrap, JavaScript, Wordpress currently learning Tailwind CSS and React JS.
 - 📫 How to reach me: tirnova90@hotmail.com
-- ![LinkedIn](https://img.shields.io/badge/linkedin-in/hakan-tırnova-4b13b6112.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
  
  🚀 SKILLS:
