@@ -26,5 +26,5 @@
 📊 GITHUB STATS:
 
 [![Hakan's github trophy](https://github-profile-trophy.vercel.app/?username=hakantirnova&row=1)](https://github.com/hakantirnova)
-[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hakantirnova&theme=blue-green)](https://github.com/hakantirnova)
+
 [![Hakan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakantirnova&theme=blue-green)](https://github.com/hakantirnova)
